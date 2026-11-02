@@ -348,4 +348,5 @@ The laboratory successfully established a controlled phishing simulation environ
 These results confirmed the successful execution of the simulation and demonstrated how phishing campaign data can be collected, quantified, and interpreted to support cybersecurity risk assessments.
 
 Although the limited test population prevents conclusions about organizational security awareness effectiveness, the exercise highlights the potential consequences of phishing-related behavior and the importance of preventive and detective security controls.
+
 ---
