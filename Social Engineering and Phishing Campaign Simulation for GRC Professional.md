@@ -70,6 +70,7 @@ chmod +x gophish
 ![Screenshot 5](5.png)
 
 Check configuration server
+
 ![Screenshot 6](6.png)
 
 Make changes to phish-server listen url
